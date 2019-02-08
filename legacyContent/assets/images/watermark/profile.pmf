@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Profile Version="1">
+
+	<Properties Class="Profile">
+		<Property Name="Name">ScottWatermark</Property>
+		<Property Name="Description"></Property>
+		<Property Name="Category">User-Defined</Property>
+	</Properties>
+
+	<Filters>
+		<Filter Id="5020">
+			<Param Type="float">0.000000</Param>
+			<Param Type="float">149.000000</Param>
+			<Param Type="float">1070.000000</Param>
+			<Param Type="float">781.000000</Param>
+			<Param Type="float">0.000000</Param>
+		</Filter>
+		<Filter Id="1010">
+			<Param Type="float">8.000000</Param>
+			<Param Type="float">0.000000</Param>
+			<Param Type="float">0.000000</Param>
+			<Param Type="float">0.000000</Param>
+			<Param Type="float">0.000000</Param>
+			<Param Type="float">0.000000</Param>
+			<Param Type="float">110.000000</Param>
+			<Param Type="float">0.000000</Param>
+			<Param Type="float">35.000000</Param>
+			<Param Type="float">0.000000</Param>
+			<Param Type="float">0.000000</Param>
+			<Param Type="float">4278190080.000000</Param>
+			<Param Type="float">10.000000</Param>
+			<Param Type="float">1.000000</Param>
+			<Param Type="float">1.000000</Param>
+			<Param Type="float">4278190080.000000</Param>
+			<Param Type="float">50.000000</Param>
+			<Param Type="float">15.000000</Param>
+			<Param Type="float">315.000000</Param>
+			<Param Type="float">5.000000</Param>
+			<Param Type="string">C:/Users/donp/Desktop/HairByScott/assets/images/watermark/watermark2-3.png</Param>
+		</Filter>
+		<Filter Id="2010">
+			<Param Type="float">10.000000</Param>
+			<Param Type="float">1.000000</Param>
+		</Filter>
+	</Filters>
+
+	<Properties Class="Rename">
+		<Property Name="FilenameFormat">[Filename]</Property>
+		<Property Name="CounterStart">1</Property>
+		<Property Name="CountStep">1</Property>
+		<Property Name="CounterDigits">2</Property>
+		<Property Name="DateType">0</Property>
+		<Property Name="DateFormat">0</Property>
+		<Property Name="ShowTime">0</Property>
+		<Property Name="TimeFormat">0</Property>
+		<Property Name="SearchFor"></Property>
+		<Property Name="ReplaceWith"></Property>
+		<Property Name="PresetRename">0</Property>
+		<Property Name="ChangeCase">0</Property>
+		<Property Name="LowerCaseExt">1</Property>
+	</Properties>
+
+	<Properties Class="Output">
+		<Property Name="Destination">1</Property>
+		<Property Name="OutputFolderStruct">0</Property>
+		<Property Name="OutputFolder">Processed</Property>
+		<Property Name="DestPath">C:\Users\donp\Desktop\HairByScott\assets\images\balayage\wmed\balayage</Property>
+		<Property Name="FTPUser"></Property>
+		<Property Name="FTPPassword"></Property>
+		<Property Name="FTPHost"></Property>
+		<Property Name="FTPFolder">/</Property>
+		<Property Name="FTPPort">21</Property>
+		<Property Name="SaveOnDiskFacebook">0</Property>
+		<Property Name="SaveOnDiskFlickr">0</Property>
+		<Property Name="SaveOnDiskFTP">0</Property>
+		<Property Name="SaveOnDiskMail">0</Property>
+		<Property Name="OpenOutputFolder">1</Property>
+		<Property Name="OriginalDate">1</Property>
+		<Property Name="DeleteSource">0</Property>
+	</Properties>
+
+	<Properties Class="Format">
+		<Property Name="OutputFormat">Original</Property>
+		<Property Name="Quality">88</Property>
+		<Property Name="FileSize">100</Property>
+		<Property Name="FixedSize">0</Property>
+		<Property Name="Interlaced">0</Property>
+		<Property Name="PNGComp">1</Property>
+		<Property Name="PdfAlg">0</Property>
+		<Property Name="TiffAlg">0</Property>
+		<Property Name="TiffType">2</Property>
+		<Property Name="JpegType">1</Property>
+		<Property Name="CustomProfile">C:\Program Files (x86)\PhotoMarks\Data\sRGB.icm</Property>
+		<Property Name="Multipage">0</Property>
+		<Property Name="DefaultFormat">JPG</Property>
+	</Properties>
+
+	<Properties Class="Interface">
+		<Property Name="Step1Preview">1</Property>
+		<Property Name="Step2Preview">1</Property>
+	</Properties>
+
+</Profile>
+

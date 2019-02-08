@@ -1,0 +1,28 @@
+{
+  "name": "paralax2-0",
+  "version": "1.0.0",
+  "description": "paralax and other assorted js library and api dependencies neccessary for site functionality.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zizuar/HairByScott.git"
+  },
+  "keywords": [
+    "paralax",
+    "hairbyscott",
+    "stylistweb",
+    "modernstylist"
+  ],
+  "author": "donald p polansky",
+  "license": "SEE LICENSE IN readme.md",
+  "bugs": {
+    "url": "https://github.com/Zizuar/HairByScott/issues"
+  },
+  "homepage": "https://github.com/Zizuar/HairByScott#readme",
+  "dependencies": {
+    "parallax-js": "^3.1.0"
+  }
+}

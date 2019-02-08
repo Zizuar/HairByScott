@@ -1,0 +1,1 @@
+var parallax = require('parallax');
