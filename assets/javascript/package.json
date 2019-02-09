@@ -23,6 +23,9 @@
   },
   "homepage": "https://github.com/Zizuar/HairByScott#readme",
   "dependencies": {
-    "parallax-js": "^3.1.0"
+    "jquery": "^3.3.1",
+    "jsdom": "^13.2.0",
+    "parallax-js": "^3.1.0",
+    "countdown-js": "^1.0.2"
   }
 }
